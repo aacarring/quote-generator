@@ -11,8 +11,11 @@ body {
     height: 100vh;
     background: linear-gradient(180deg, rgb(200, 201, 245), rgb(247, 239, 199));
 }
-.container {
+.container,
+.quote {
     display: flex;
+    flex-direction: column;
+    max-width: 75vw;
     text-align: center;
     margin: 20px;
     font-family: monospace;

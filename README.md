@@ -1,0 +1,1 @@
+Here's another fetch API practice app - instead of cat pics, generate some inspirational quotes.
